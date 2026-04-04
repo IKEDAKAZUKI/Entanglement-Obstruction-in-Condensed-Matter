@@ -1,0 +1,1689 @@
+[
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CT",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 4010,
+      "10": 48,
+      "11": 38
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CT",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 2430,
+      "10": 1632,
+      "01": 15,
+      "11": 19
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CT",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 2048,
+      "10": 2010,
+      "01": 16,
+      "11": 22
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CT",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2031,
+      "10": 36,
+      "01": 1995,
+      "11": 34
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CT",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1276,
+      "10": 860,
+      "01": 1176,
+      "11": 784
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CT",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1198,
+      "10": 883,
+      "01": 870,
+      "11": 1145
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CT",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1969,
+      "10": 62,
+      "01": 2065
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CT",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1386,
+      "10": 659,
+      "01": 1026,
+      "11": 1025
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CT",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1042,
+      "10": 1029,
+      "01": 1029,
+      "11": 996
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CB",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 4037,
+      "10": 30,
+      "11": 29
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CB",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 2390,
+      "10": 1671,
+      "01": 13,
+      "11": 22
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CB",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 2014,
+      "10": 2052,
+      "01": 16,
+      "11": 14
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CB",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2008,
+      "10": 36,
+      "01": 2030,
+      "11": 22
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CB",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1215,
+      "10": 867,
+      "01": 1181,
+      "11": 833
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CB",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 828,
+      "10": 1192,
+      "01": 1299,
+      "11": 777
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CB",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2063,
+      "01": 1962,
+      "11": 71
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CB",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1020,
+      "10": 1063,
+      "01": 1337,
+      "11": 676
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "CB",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 993,
+      "10": 1003,
+      "01": 1064,
+      "11": 1036
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_plus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 3968,
+      "10": 128
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_plus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 2837,
+      "10": 1259
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_plus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 2105,
+      "10": 1991
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_plus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1988,
+      "10": 67,
+      "01": 1986,
+      "11": 55
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_plus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1336,
+      "10": 663,
+      "01": 1466,
+      "11": 631
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_plus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1062,
+      "10": 1028,
+      "01": 1011,
+      "11": 995
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_plus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2041,
+      "10": 63,
+      "01": 1933,
+      "11": 59
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_plus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1389,
+      "10": 663,
+      "01": 1380,
+      "11": 664
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_plus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1014,
+      "10": 987,
+      "01": 1066,
+      "11": 1029
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_minus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 3968,
+      "11": 128
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_minus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1951,
+      "10": 2027,
+      "01": 53,
+      "11": 65
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_minus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 2008,
+      "10": 1967,
+      "01": 67,
+      "11": 54
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_minus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1998,
+      "10": 62,
+      "01": 1968,
+      "11": 68
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_minus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1002,
+      "10": 987,
+      "01": 1040,
+      "11": 1067
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_minus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1358,
+      "10": 679,
+      "01": 693,
+      "11": 1366
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_minus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1923,
+      "10": 69,
+      "01": 2043,
+      "11": 61
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_minus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1397,
+      "10": 675,
+      "01": 695,
+      "11": 1329
+    }
+  },
+  {
+    "spec": {
+      "model": "BHZ",
+      "loop": "C_minus",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 986,
+      "10": 1069,
+      "01": 1021,
+      "11": 1020
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CL",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 4022,
+      "10": 45,
+      "01": 3,
+      "11": 26
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CL",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1669,
+      "10": 2399,
+      "01": 23,
+      "11": 5
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CL",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1982,
+      "10": 2071,
+      "01": 10,
+      "11": 33
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CL",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2144,
+      "10": 38,
+      "01": 1879,
+      "11": 35
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CL",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 932,
+      "10": 1262,
+      "01": 729,
+      "11": 1173
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CL",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 861,
+      "10": 1316,
+      "01": 1122,
+      "11": 797
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CL",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1953,
+      "10": 74,
+      "01": 2069
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CL",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 666,
+      "10": 1399,
+      "01": 1005,
+      "11": 1026
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CL",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 932,
+      "10": 1155,
+      "01": 985,
+      "11": 1024
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CR",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 4014,
+      "10": 32,
+      "01": 5,
+      "11": 45
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CR",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1665,
+      "10": 2386,
+      "01": 26,
+      "11": 19
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CR",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1974,
+      "10": 2082,
+      "01": 7,
+      "11": 33
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CR",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1871,
+      "10": 30,
+      "01": 2160,
+      "11": 35
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CR",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 700,
+      "10": 1237,
+      "01": 959,
+      "11": 1200
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CR",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1104,
+      "10": 810,
+      "01": 859,
+      "11": 1323
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CR",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2053,
+      "01": 1974,
+      "11": 69
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CR",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1015,
+      "10": 1064,
+      "01": 660,
+      "11": 1357
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "CR",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1037,
+      "10": 1072,
+      "01": 883,
+      "11": 1104
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 4000,
+      "10": 74,
+      "11": 22
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1550,
+      "10": 2528,
+      "01": 14,
+      "11": 4
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1850,
+      "10": 2226,
+      "01": 5,
+      "11": 15
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2106,
+      "10": 38,
+      "01": 1912,
+      "11": 40
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 809,
+      "10": 1342,
+      "01": 701,
+      "11": 1244
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 852,
+      "10": 1267,
+      "01": 1078,
+      "11": 899
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1976,
+      "10": 76,
+      "01": 2040,
+      "11": 4
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 639,
+      "10": 1351,
+      "01": 988,
+      "11": 1118
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1003,
+      "10": 1087,
+      "01": 980,
+      "11": 1026
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 3941,
+      "01": 15,
+      "11": 140
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 2018,
+      "10": 1939,
+      "01": 79,
+      "11": 60
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 2005,
+      "10": 1950,
+      "01": 31,
+      "11": 110
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2221,
+      "10": 63,
+      "01": 1738,
+      "11": 74
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1232,
+      "10": 1083,
+      "01": 844,
+      "11": 937
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 796,
+      "10": 1498,
+      "01": 1247,
+      "11": 555
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1998,
+      "10": 57,
+      "01": 1984,
+      "11": 57
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 697,
+      "10": 1374,
+      "01": 1396,
+      "11": 629
+    }
+  },
+  {
+    "spec": {
+      "model": "SSH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 941,
+      "10": 1049,
+      "01": 1080,
+      "11": 1026
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cx",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1964,
+      "01": 2132
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cx",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1009,
+      "10": 937,
+      "01": 1067,
+      "11": 1083
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cx",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 990,
+      "10": 991,
+      "01": 1026,
+      "11": 1089
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cx",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 4095,
+      "01": 1
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cx",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 2031,
+      "10": 2065
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cx",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 2010,
+      "10": 2081,
+      "11": 5
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cx",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2085,
+      "01": 2011
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cx",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1028,
+      "10": 1027,
+      "01": 1023,
+      "11": 1018
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cx",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1045,
+      "10": 995,
+      "01": 1064,
+      "11": 992
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cy",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 1874,
+      "10": 2222
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cy",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 4086,
+      "10": 10
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cy",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 2022,
+      "10": 2074
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cy",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 929,
+      "10": 1116,
+      "01": 958,
+      "11": 1093
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cy",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 2002,
+      "10": 2,
+      "01": 2086,
+      "11": 6
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cy",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1013,
+      "10": 1036,
+      "01": 1035,
+      "11": 1012
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cy",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 918,
+      "10": 1107,
+      "01": 959,
+      "11": 1112
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cy",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 2107,
+      "10": 4,
+      "01": 1981,
+      "11": 4
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cy",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 997,
+      "10": 1042,
+      "01": 1041,
+      "11": 1016
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 4092,
+      "11": 4
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 2078,
+      "10": 2016,
+      "11": 2
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 2090,
+      "10": 2005,
+      "11": 1
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2015,
+      "10": 3,
+      "01": 2077,
+      "11": 1
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 992,
+      "10": 1062,
+      "01": 1003,
+      "11": 1039
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 930,
+      "10": 1099,
+      "01": 1095,
+      "11": 972
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2046,
+      "10": 2,
+      "01": 2047,
+      "11": 1
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 977,
+      "10": 1090,
+      "01": 1080,
+      "11": 949
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Cdiag",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 998,
+      "10": 1089,
+      "01": 990,
+      "11": 1019
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 4093,
+      "11": 3
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 2038,
+      "10": 2056,
+      "01": 2
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "X",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 2054,
+      "10": 2038,
+      "01": 1,
+      "11": 3
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2021,
+      "01": 2074,
+      "11": 1
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1028,
+      "10": 994,
+      "01": 1063,
+      "11": 1011
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Y",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1104,
+      "10": 962,
+      "01": 931,
+      "11": 1099
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "X"
+    },
+    "counts": {
+      "00": 2034,
+      "01": 2062
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Y"
+    },
+    "counts": {
+      "00": 1081,
+      "10": 1005,
+      "01": 953,
+      "11": 1057
+    }
+  },
+  {
+    "spec": {
+      "model": "BBH",
+      "loop": "Canti",
+      "input_a": "+",
+      "input_b": "+",
+      "meas_a": "Z",
+      "meas_b": "Z"
+    },
+    "counts": {
+      "00": 1045,
+      "10": 1036,
+      "01": 1049,
+      "11": 966
+    }
+  }
+]

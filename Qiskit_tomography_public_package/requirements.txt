@@ -1,0 +1,8 @@
+qiskit>=1.2
+qiskit-aer>=0.15
+qiskit-ibm-runtime>=0.31
+numpy>=1.26
+scipy>=1.11
+pandas>=2.2
+matplotlib>=3.8
+notebook>=7.0
