@@ -1,0 +1,39 @@
+{
+  "loop_family": "(theta1,theta2)/pi = (1,1) + rho (cos t, sin t)",
+  "center_theta_over_pi": [
+    1.0,
+    1.0
+  ],
+  "radius_range_over_pi": [
+    0.05,
+    0.95
+  ],
+  "orientation_check_radius_over_pi": 0.532442,
+  "n_points_per_loop": 121,
+  "models": [
+    "BHZ",
+    "SSH",
+    "BBH"
+  ],
+  "bbh_largest_D_loc_in_scan": {
+    "model": "BBH",
+    "orientation": "+",
+    "center_theta1_over_pi": 1.0,
+    "center_theta2_over_pi": 1.0,
+    "radius_over_pi": 0.85,
+    "n_points": 121.0,
+    "D_loc_strict": 0.5568560024305359,
+    "D_loc_swap": 0.5568560024305359,
+    "ep_exact": 0.06241723003559308,
+    "arg_det": -4.198030811863873e-16,
+    "max_abs_phase": 0.6133366473888311,
+    "eigphase_1": -0.6133366473888305,
+    "eigphase_2": -0.1804234047883213,
+    "eigphase_3": 0.18042340478832092,
+    "eigphase_4": 0.6133366473888311,
+    "schmidt_1": 1.9224778481392717,
+    "schmidt_2": 0.5502262432561307,
+    "schmidt_3": 0.03506147168554727,
+    "schmidt_4": 0.010034831801697926
+  }
+}
