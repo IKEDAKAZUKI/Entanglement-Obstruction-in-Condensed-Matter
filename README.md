@@ -341,15 +341,11 @@ The animated overview slides are included in the repository:
 
 - [Quantum Entanglement as a Geometric Obstruction: Mathematical and Physical Insights — SlideShare](https://www.slideshare.net/slideshow/quantum-entanglement-as-a-geometric-obstruction-mathematical-and-physical-insights/287998123)
 
-```text
-Entanglement Geometry slides.gif
-```
+- [`Entanglement Geometry slides.gif`](Entanglement%20Geometry%20slides.gif)
 
 A static PDF version is also available:
+- [`Entanglement Geometry slides.pdf`](Entanglement%20Geometry%20slides.pdf)
 
-```text
-Entanglement Geometry slides.pdf
-```
 
 ---
 
