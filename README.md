@@ -9,6 +9,7 @@
 [![Lecture Notes](https://img.shields.io/badge/Lecture%20Notes-arXiv%3A2601.19111-green.svg)](https://arxiv.org/abs/2601.19111)
 [![Python](https://img.shields.io/badge/Python-Research%20Code-3776AB)](https://www.python.org/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-Tomography%20Workflow-6929C4)](https://www.ibm.com/quantum/qiskit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <br>
 
@@ -156,7 +157,9 @@ A holonomy outside this subgroup signals an obstruction to globally trivializing
 │   └── README.md
 │
 ├── Entanglement Geometry slides.gif
-└── Entanglement Geometry slides.pdf
+├── Entanglement Geometry slides.pdf
+├── LICENSE
+└── README.md
 ```
 
 ---
@@ -408,9 +411,12 @@ Please cite the relevant work depending on how this repository is used.
 
 ## License
 
-A repository-wide license file is not currently included.
+This repository is released under the [MIT License](LICENSE).
 
-Before redistribution or reuse, please add an explicit `LICENSE` file to the root directory. For academic use, please also cite the relevant papers listed above.
+Copyright (c) 2026 Kazuki Ikeda.
+
+The software is provided for research, educational, and reproducibility purposes.  
+If you use this repository in academic work, please also cite the relevant papers listed above.
 
 ---
 
