@@ -356,40 +356,42 @@ Please cite the relevant work depending on how this repository is used.
 ### Mathematical foundation
 
 ```bibtex
-@misc{Ikeda2026EntanglementGeometrySeveriBrauer,
-  author        = {Ikeda, Kazuki},
-  title         = {Quantum Entanglement Geometry on Severi-Brauer Schemes:
-                   Subsystem Reductions of Azumaya Algebras},
-  year          = {2026},
-  eprint        = {2601.13764},
-  archivePrefix = {arXiv},
-  primaryClass  = {math.AG}
+@article{Ikeda:2026ojm,
+    author = "Ikeda, Kazuki",
+    title = "{Quantum Entanglement Geometry on Severi-Brauer Schemes: Subsystem Reductions of Azumaya Algebras}",
+    eprint = "2601.13764",
+    archivePrefix = "arXiv",
+    primaryClass = "math.AG",
+    month = "1",
+    year = "2026"
 }
 ```
 
 ### Condensed-matter implementation and numerical code
 
 ```bibtex
-@misc{IkedaOz2026LoopDependentEntanglingHolonomies,
-  author        = {Ikeda, Kazuki and Oz, Yaron},
-  title         = {Loop-dependent entangling holonomies in localized topological quartets},
-  year          = {2026},
-  eprint        = {2604.11596},
-  archivePrefix = {arXiv},
-  primaryClass  = {cond-mat.mes-hall}
+@article{Ikeda:2026fen,
+    author = "Ikeda, Kazuki and Oz, Yaron",
+    title = "{Loop-dependent entangling holonomies in localized topological quartets}",
+    eprint = "2604.11596",
+    archivePrefix = "arXiv",
+    primaryClass = "cond-mat.mes-hall",
+    month = "4",
+    year = "2026"
 }
 ```
 
 ### Lecture notes
 
 ```bibtex
-@misc{Ikeda2026IntroductionEntanglementGeometry,
-  author        = {Ikeda, Kazuki},
-  title         = {Introduction to Quantum Entanglement Geometry},
-  year          = {2026},
-  eprint        = {2601.19111},
-  archivePrefix = {arXiv},
-  primaryClass  = {quant-ph}
+@article{Ikeda:2026wwa,
+    author = "Ikeda, Kazuki",
+    title = "{Introduction to Quantum Entanglement Geometry}",
+    eprint = "2601.19111",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    month = "1",
+    year = "2026"
 }
 ```
 
