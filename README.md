@@ -339,6 +339,8 @@ These diagnostics are designed to distinguish genuinely entangling holonomies fr
 
 The animated overview slides are included in the repository:
 
+- [Quantum Entanglement as a Geometric Obstruction: Mathematical and Physical Insights — SlideShare](https://www.slideshare.net/slideshow/quantum-entanglement-as-a-geometric-obstruction-mathematical-and-physical-insights/287998123)
+
 ```text
 Entanglement Geometry slides.gif
 ```
